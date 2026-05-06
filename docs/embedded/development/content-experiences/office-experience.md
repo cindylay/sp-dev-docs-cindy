@@ -17,7 +17,7 @@ Documents stored in an archived container can’t be viewed or accessed. Your ap
 
 ## View or restore a previous version of an Office document from SharePoint Embedded
 
-Office document versioning is controlled by the `isVersioningEnabled` setting in your container type configuration. Users can track changes, compare versions, and restore earlier versions when needed—whether to recover from mistakes, revert to a preferred version, or manage changes in collaborative scenarios.
+Office document versioning is controlled by the `isItemVersioningEnabled` setting in your [container type configuration](/graph/api/resources/filestoragecontainertypesettings). Users can track changes, compare versions, and restore earlier versions when needed—whether to recover from mistakes, revert to a preferred version, or manage changes in collaborative scenarios.
 
 ## Collaborating on Office documents from SharePoint Embedded
 
